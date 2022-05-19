@@ -1,0 +1,5 @@
+venv/
+.idea/
+.ipynb_checkpoints/
+model-01.hdf5
+model-02.hdf5
